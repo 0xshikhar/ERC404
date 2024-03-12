@@ -1,6 +1,6 @@
 # NOTICE
 
-This repository has been deprecated, ongoing efforts on ERC404 have moved [here](https://github.com/Pandora-Labs-Org/erc404). This repository is for testing purpose.
+This repository has been deprecated, ongoing efforts on ERC404 have moved [here](https://github.com/Pandora-Labs-Org/erc404).
 
 # ERC404
 
