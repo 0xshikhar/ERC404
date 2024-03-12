@@ -1,10 +1,10 @@
 # NOTICE
 
-This repository has been deprecated, ongoing efforts on ERC404 have moved [here](https://github.com/Pandora-Labs-Org/erc404).
+This repository has been deprecated, ongoing efforts on ERC404 have moved [here](https://github.com/Pandora-Labs-Org/erc404). This repository is for testing purpose.
 
 # ERC404
 
-ERC404 is an experimental, mixed ERC20 / ERC721 implementation with native liquidity and fractionalization. While these two standards are not designed to be mixed, this implementation strives to do so in as robust a manner as possible while minimizing tradeoffs.
+ERC404 is an experimental, mixed ERC20 / ERC721 implementation with native liquidity and fractionalization. While these two standards are not designed to be mixed, this implementation strives to do so in as robust a manner as possible while minimizing tradeoffs. 
 
 In it's current implementation, ERC404 effectively isolates ERC20 / ERC721 standard logic or introduces pathing where possible. Pathing could best be described as a lossy encoding scheme in which token amount data and ids occupy shared space under the assumption that negligible token transfers occupying id space do not or do not need to occur.
 
